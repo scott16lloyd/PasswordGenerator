@@ -20,7 +20,7 @@ public class PasswordGenerator {
         }
 
         // Jumble order
-        password = jumbleString(password);;
+        password = jumbleString(password);
 
         this.password = password;
         return password;
